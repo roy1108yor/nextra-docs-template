@@ -1,2 +1,5 @@
 .next
 node_modules
+.1024*
+!.1024
+.pnpm-store
